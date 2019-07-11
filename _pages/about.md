@@ -1,7 +1,7 @@
 ---
 permalink: /
 #title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-#title: "About"
+## title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,10 +9,14 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in Mechatronics Engineering Department at Bartın University, Turkey since March 2019. I completed my PhD at Virginia Tech in 2018 and my Master's degree at The Ohio State University in 2013. During my PhD studies, I worked on probabilistic search theory and worked with [Dr. Daniel Stilwell] (https://autonomyandrobotics.centers.vt.edu/people/stilwell.html) from Autonomous Systems and Control Lab at VT. 
+I am an assistant professor in Mechatronics Engineering Department at Bartın University, Turkey since March 2019. I completed my PhD at Virginia Tech in 2018 and my Master's degree at The Ohio State University in 2013. During my PhD studies, I worked on probabilistic search theory and worked with [Dr. Daniel Stilwell](https://autonomyandrobotics.centers.vt.edu/people/stilwell.html) from Autonomous Systems and Control Lab at VT. 
 
 ---
-title: "Research Interests"
----
 
-Here are my research interests
+## Research Interests
+
+In general, I am interested in applying novel algorithms to real-world robotic problems that involve autonomous decision-making under uncertainty. Specifically, I am interested in the following problems and applications
+- probabilistic search theory and optimal sampling
+- informative path planning with multiple agents
+- autonomous decision-making in subsea search missions
+- multi-uav search and rescue applications in wilderness (WiSAR) 
