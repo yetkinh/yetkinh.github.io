@@ -1,7 +1,7 @@
 ---
 permalink: /
 #title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-## title: "About"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -20,3 +20,12 @@ In general, I am interested in applying novel algorithms to real-world robotic p
 - informative path planning with multiple agents
 - autonomous decision-making in subsea search missions
 - multi-uav search and rescue applications in wilderness (WiSAR) 
+
+---
+
+## Recent News
+
+June 2019  | Two research papers accepted to IROS 2019!
+June 2019  | Co-organized a workshop with Dr. Bayram on underwater robotics in TORK2019
+March 2019 | Started new position in Mechatronics Engineering Department at Bartın University
+July 2018  | Completed PhD in Bradley Department of Electrical and Computer Engineering at Virginia Tech
