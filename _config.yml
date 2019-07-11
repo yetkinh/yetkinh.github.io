@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Harun Yetkin"
-  avatar           : "profile.png"
+  avatar           : "harunyetkinfotograf1_original.jpg"
   bio              : "PhD at Virginia Tech. Currently at Bartın University"
   location         : "Bartın, Turkey"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.tr/citations?user=vbfCyB0AAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
