@@ -11,7 +11,6 @@ redirect_from:
 
 I am an assistant professor in Mechatronics Engineering Department at Bartın University, Turkey since March 2019. I completed my PhD at Virginia Tech in 2018 and my Master's degree at The Ohio State University in 2013. During my PhD studies, I worked on probabilistic search theory and worked with [Dr. Daniel Stilwell](https://autonomyandrobotics.centers.vt.edu/people/stilwell.html) from Autonomous Systems and Control Lab at VT. 
 
----
 
 ## Research Interests
 
@@ -21,7 +20,6 @@ In general, I am interested in applying novel algorithms to real-world robotic p
 - autonomous decision-making in subsea search missions
 - multi-uav search and rescue applications in wilderness (WiSAR) 
 
----
 
 ## Recent News
 
