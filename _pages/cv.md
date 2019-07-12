@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+You can also find my cv here. 
+
 ## Education
-======
 * Ph.D in Electrical and Computer Engineering, Virginia Tech, 2013 - 2018
   - Advisor: Daniel Stilwell, Autonomous Systems and Control Lab
   - Dissertation: "Toward real-time path planning for robotic search"
@@ -22,7 +23,6 @@ redirect_from:
 ---
 
 ## Publications
-======
 1. **H. Yetkin**, C. Lutz and D. J. Stilwell, “A decision-theoretic approach to acquire environmental information for improved subsea search performance”, Ocean Engineering (under review)
 2. **H. Yetkin**, J. McMahon, N. Topin, A. Wolek, Z. Waters and D. J. Stilwell, “Online planning for unmanned vehicles performing information gathering tasks in large state spaces”, 2019 IEEE/RSJ International Conference on Robots and Systems (accepted)
 3. B. Biggs, D. J. Stilwell, **H. Yetkin** and J. McMahon, “Performance guarantees for receding horizon search with terminal cost”, 2019 IEEE/RSJ International Conference on Robots and Systems (accepted)
