@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: false
+author_profile: true
 ---
 
 You can find my research papers on [my Google Scholar page](https://scholar.google.com.tr/citations?user=vbfCyB0AAAAJ&hl=en&oi=ao)
