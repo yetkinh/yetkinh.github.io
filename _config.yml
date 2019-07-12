@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Harun Yetkin"
 title_separator          : "-"
 name                     : &name "Harun Yetkin"
-description              : &description "Assistant Professor at Bartın University, Department of Methatronics Engineering"
+description              : &description "Assistant Professor in the Department of Methatronics Engineering at Bartın University, Turkey"
 url                      : https://yetkinh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yetkinh.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Harun Yetkin"
   avatar           : "harunyetkinfotograf1_edited.jpg"
-  bio              : "PhD at Virginia Tech. Currently at Bartın University"
+  bio              : "Asst. Prof. at Bartın University, Turkey. Completed PhD at Virginia Tech."
   location         : "Bartın, Turkey"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -217,7 +217,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -226,24 +226,24 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  #- scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #    path: ""
+  #    type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: true
+  #    share: true
 
 # Sass/SCSS
 sass:
