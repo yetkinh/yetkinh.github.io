@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can also find my cv here. 
 
 ## Education
 * Ph.D in Electrical and Computer Engineering, Virginia Tech, 2013 - 2018
