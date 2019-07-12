@@ -12,6 +12,7 @@ redirect_from:
 ## Bio
 
 I am an Assistant Professor in the Department of Mechatronics Engineering at Bartın University, Turkey. I received my PhD degree in the Bradley Department of Electrical and Computer Engineering at Virginia Tech in 2018, where I was a member of [Autonomous Systems and Control Lab](https://www.ascl.ece.vt.edu/index.html) and advised by [Dr. Daniel Stilwell](https://autonomyandrobotics.centers.vt.edu/people/stilwell.html). During my PhD studies, I mainly worked on probabilistic search theory with a focus on real-time path planning algorithms for AUVs in subsea search applications.     
+
 ---
 
 ## Education
