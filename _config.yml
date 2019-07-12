@@ -88,7 +88,8 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.tr/citations?user=vbfCyB0AAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "hyetkin@bartin.edu.tr"
+  email            : "yetkinh@vt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -200,7 +201,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -256,7 +257,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Turkey/Istanbul # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
