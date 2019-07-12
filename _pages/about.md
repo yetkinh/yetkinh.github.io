@@ -24,9 +24,8 @@ My research interests include modeling and solving autonomous decison-making pro
 
 ---
 ## Updates and News
-``` markdown
-June, 2019:   Paper on Monte Carlo Tree Search Planner for subsea search applications accepted to [IROS 2019](https://www.iros2019.org/)!
-June, 2019:   Paper on Receding Horizon Control with Perfroamce Guarantees accepted to [IROS 2019](https://www.iros2019.org/)!
-June, 2019:   Co-organized a workshop on [Underwater and Surface Vehicles: Challenges, Opportunities, and Applications](https://www.robotikblogu.org/denizrobotlaricalistayi) with [Dr. Bayram](http://www.halukbayram.net/) at [TORK 2019](https://tork2019.ozyegin.edu.tr/en) in İstanbul, Turkey
-March, 2019:  Started new position in the Department of Mechatronics Engineering at [Bartın University](https://w3.bartin.edu.tr/), Turkey
-July, 2018:   Completed PhD in the Bradley Department of Electrical and Computer Engineering at Virginia Tech
+- June, 2019:   Paper on Monte Carlo Tree Search Planner for subsea search applications accepted to [IROS 2019](https://www.iros2019.org/)!
+- June, 2019:   Paper on Receding Horizon Control with Perfroamce Guarantees accepted to [IROS 2019](https://www.iros2019.org/)!
+- June, 2019:   Co-organized a workshop on [Underwater and Surface Vehicles: Challenges, Opportunities, and Applications](https://www.robotikblogu.org/denizrobotlaricalistayi) with [Dr. Bayram](http://www.halukbayram.net/) at [TORK 2019](https://tork2019.ozyegin.edu.tr/en) in İstanbul, Turkey
+- March, 2019:  Started new position in the Department of Mechatronics Engineering at [Bartın University](https://w3.bartin.edu.tr/), Turkey
+- July, 2018:   Completed PhD in the Bradley Department of Electrical and Computer Engineering at Virginia Tech
