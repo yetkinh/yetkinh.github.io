@@ -21,7 +21,7 @@ I am an Assistant Professor in the Department of Mechatronics Engineering at Bar
 
 ## Research Interests
 
-My research interests include modeling and solving autonomous decison-making problems for real-world robotic systems. I am particularly interested in multi-agent collaborative search problems where the search domain vary from subsea environments to wilderness. Currently, I am working on two projects; the first project is from search and rescue domain where the aim is to find the lost person in wilderness as soon as possible with limited resources (human teams, UAV teams, trained dogs, etc...) and the second project is from the underwater robotics domain where the aim is to develop a fully autonomous system that monitors the health of a ship hull.   
+My research interests include modeling and solving autonomous decison-making problems for real-world robotic systems. I am particularly interested in multi-agent collaborative search problems where the search domain vary from subsea environments to wilderness. Currently, I am working on two projects; the first project is from search and rescue domain where the aim is to find the lost person in wilderness as soon as possible with limited resources (human teams, UAV teams, trained dogs, etc...), and the second project is from the underwater robotics domain where the aim is to develop a fully autonomous system that monitors the health of a ship hull.   
 
 
 ## Updates and News
