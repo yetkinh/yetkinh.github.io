@@ -25,6 +25,9 @@ My research interests include modeling and solving autonomous decison-making pro
 
 
 ## Updates and News
+- March, 2020: [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0029801820303255) accepted to Ocean Engineering Journal to be published in May 2020
+- December, 2019: Two papers accepted to IROS 2019 are published: [MCTS for subsea search](https://ieeexplore.ieee.org/abstract/document/8967898) and [RHC with performance guarantees](https://ieeexplore.ieee.org/abstract/document/8968202)   
+- November, 2019: Presented our paper "Online Planning for Autonomous Underwater Vehicles Performing Information Gathering Tasks in Large Subsea Environments" at IROS 2019 Conference in Macau, China
 - June, 2019:   Paper on Monte Carlo Tree Search Planner for subsea search applications accepted to [IROS 2019](https://www.iros2019.org/)!
 - June, 2019:   Paper on Receding Horizon Control with Perfroamce Guarantees accepted to [IROS 2019](https://www.iros2019.org/)!
 - June, 2019:   Co-organized a workshop on [Underwater and Surface Vehicles: Challenges, Opportunities, and Applications](https://www.robotikblogu.org/denizrobotlaricalistayi) with [Dr. Bayram](http://www.halukbayram.net/) at [TORK 2019](https://tork2019.ozyegin.edu.tr/en) in İstanbul, Turkey
